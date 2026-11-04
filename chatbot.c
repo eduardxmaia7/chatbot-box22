@@ -85,7 +85,7 @@ int main(void) {
                 total_atendente++;
                 break;
             case 0:
-                /* a despedida e exibida apos o laço */
+                /* a despedida é exibida após o laço */
                 break;
             default:
                 printf("\nOpcão inválida! Digite um número de 0 a 5.\n");
